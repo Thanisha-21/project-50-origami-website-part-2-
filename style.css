@@ -1,0 +1,41 @@
+b{
+    color: rgb(195, 196, 132);
+    font-size: 35px;
+}
+
+h1{
+    color: white;
+}
+
+.Menu{
+    color: rgb(131, 182, 108);
+    font-size: 25px;
+}
+
+.teddy{
+    color: lightpink;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.camel{
+    color: lightskyblue;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.panda{
+    color: lightgreen;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pigeon{
+    color: lightsalmon;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
